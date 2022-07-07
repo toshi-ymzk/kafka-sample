@@ -1,0 +1,28 @@
+{
+  "name": "kafka-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toshi-ymzk/kafka-sample.git"
+  },
+  "author": "Toshihiro Yamazaki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/toshi-ymzk/kafka-sample/issues"
+  },
+  "homepage": "https://github.com/toshi-ymzk/kafka-sample#readme",
+  "dependencies": {
+    "kafka-node": "^5.0.0"
+  },
+  "devDependencies": {
+    "@types/kafka-node": "^3.0.0",
+    "@types/node": "^18.0.3",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^4.7.4"
+  }
+}
